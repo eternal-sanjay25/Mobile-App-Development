@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">EX03_076</string>
+    <string name="app_name">EX2_76</string>
+
+    <string-array name="doctors_list">
+        <item>Dr. Smith</item>
+        <item>Dr. Johnson</item>
+        <item>Dr. Williams</item>
+        <item>Dr. Brown</item>
+    </string-array>
+
+    <string-array name="Time_List">
+        <item>09:00 AM</item>
+        <item>10:00 AM</item>
+        <item>11:00 AM</item>
+        <item>12:00 PM</item>
+        <item>02:00 PM</item>
+        <item>03:00 PM</item>
+    </string-array>
 </resources>
