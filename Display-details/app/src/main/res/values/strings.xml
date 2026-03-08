@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex1_115</string>
+    <string-array name="Doctor_list">
+        <item>Select</item>
+        <item>Dr.Mahesh</item>
+        <item>Dr.Ravi</item>
+        <item>Dr.Sujitha</item>
+    </string-array>
+</resources>
