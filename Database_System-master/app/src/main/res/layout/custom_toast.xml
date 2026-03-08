@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">EX1_76</string>
+
+    <string-array name="doctors_list">
+        <item>Select Doctor</item>
+        <item>Dr. Kumar</item>
+        <item>Dr. Priya</item>
+        <item>Dr. Ram</item>
+    </string-array>
+
+    <string-array name="Time_List">
+        <item>Select Time</item>
+        <item>10:00 AM</item>
+        <item>11:00 AM</item>
+        <item>12:00 PM</item>
+        <item>2:00 PM</item>
+    </string-array>
+
+</resources>
