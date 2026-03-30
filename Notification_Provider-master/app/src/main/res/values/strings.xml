@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EX4_076</string>
+    <string-array name="Location">
+        <item>Madurai</item>
+        <item>Chennai</item>
+    </string-array>
+</resources>
